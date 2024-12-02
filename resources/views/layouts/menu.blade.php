@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>ADVentas | www.incanatoit.com</title>
+    <title>Sistemas_Ventas PIZZERIA STEVE</title>
     <!-- Tell the browser to be responsive to screen width -->
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <!-- Bootstrap 3.3.5 -->
@@ -29,7 +29,7 @@
           <!-- mini logo for sidebar mini 50x50 pixels -->
           <span class="logo-mini"><b>AD</b>V</span>
           <!-- logo for regular state and mobile devices -->
-          <span class="logo-lg"><b>ADVentas</b></span>
+          <span class="logo-lg"><b>PIZZERIA STEVE</b></span>
         </a>
 
         <!-- Header Navbar: style can be found in header.less -->
@@ -46,16 +46,16 @@
               <!-- User Account: style can be found in dropdown.less -->
               <li class="dropdown user user-menu">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                  <small class="bg-red">Online</small>
-                  <span class="hidden-xs">Juan Carlos Arcila Díaz</span>
+                  <small class="bg-red">UATF</small>
+                  <span class="hidden-xs">Ingeniería de Sistemas</span>
                 </a>
                 <ul class="dropdown-menu">
                   <!-- User image -->
                   <li class="user-header">
                     
                     <p>
-                      www.incanatoit.com - Desarrollando Software
-                      <small>www.youtube.com/jcarlosad7</small>
+                      Carrera Ingeniería de Sistemas
+                      <small>-------*--------</small>
                     </p>
                   </li>
                   
@@ -87,11 +87,11 @@
             <li class="treeview">
               <a href="#">
                 <i class="fa fa-laptop"></i>
-                <span>Almacén</span>
+                <span>Categorias</span>
                 <i class="fa fa-angle-left pull-right"></i>
               </a>
               <ul class="treeview-menu">
-                <li><a href="#"><i class="fa fa-circle-o"></i> Artículos</a></li>
+                <li><a href="#"><i class="fa fa-circle-o"></i> Productos</a></li>
                 <li><a href="{{route('categorias.index')}}"><i class="fa fa-circle-o"></i> Categorías</a></li>
               </ul>
             </li>
@@ -161,7 +161,7 @@
         <div class="pull-right hidden-xs">
           <b>Version</b> 2.3.0
         </div>
-        <strong>Copyright &copy; 2015-2020 <a href="www.incanatoit.com">IncanatoIT</a>.</strong> All rights reserved.
+        <strong>Copyright &copy; 2024 <a href="www.incanatoit.com">PIZZERIA STEVE</a>.</strong> All rights reserved.
       </footer>
 
       
